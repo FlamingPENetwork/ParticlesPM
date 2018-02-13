@@ -1,0 +1,6 @@
+
+name: ParticlePlus
+main: FlamingPE\ParticlePM\Particles
+version: 1.3.0
+api: [3.0.0-ALPHA10, 3.0.0-ALPHA11, 3.0.0-ALPHA12]
+author: FlamingPE
